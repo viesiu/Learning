@@ -76,6 +76,10 @@
   nav {
     display: none;
   }
+  
+  header {
+    background-attachment: scroll;
+  }
 
 }
 
