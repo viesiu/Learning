@@ -28,10 +28,6 @@
 
 @media screen and (max-width: 900px) {
 
-  html, body {
-    font-size: 18px;
-  }
-
   input, textarea {
     width: 100%;
   }
@@ -47,6 +43,10 @@
   
   html, body {
     font-size: 18px; 
+  }
+  
+  nav {
+    height: 50px;
   }
 
   .work, .about-do, .about-who, .social, .form {
