@@ -57,12 +57,12 @@ h2 {
 /* --------------------------------- */
 
 header {
+  height: 100vh;
   background: -webkit-linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(resources/img/greet-bg.jpg);
   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(resources/img/greet-bg.jpg);
   background-position: center;
-  background-attachment: fixed;
   background-size: cover;
-  height: 100vh;
+  background-attachment: fixed;
 }
 
 h1 {
