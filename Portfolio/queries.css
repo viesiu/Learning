@@ -41,16 +41,16 @@
 
 @media screen and (max-width: 640px) {
   
+  .main-nav li {
+    margin: 0 inherit; 
+  }
+  
   .intro {
     font-size: 80%; 
   }
   
   html, body {
     font-size: 18px; 
-  }
-  
-  nav {
-    height: 25px;
   }
 
   .work, .about-do, .about-who, .social, .form {
