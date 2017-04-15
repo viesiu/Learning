@@ -42,7 +42,7 @@
 @media screen and (max-width: 640px) {
   
   .main-nav li {
-    margin: 0 inherit; 
+    margin: 0 40px; 
   }
   
   .intro {
