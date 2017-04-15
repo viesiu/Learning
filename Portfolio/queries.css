@@ -41,6 +41,10 @@
 
 @media screen and (max-width: 640px) {
   
+  .intro {
+    font-size: 80%; 
+  }
+  
   html, body {
     font-size: 18px; 
   }
