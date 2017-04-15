@@ -46,6 +46,7 @@
 @media screen and (max-width: 640px) {
   
   header {
+    background: url(resources/img/greet-bg.jpg);
     background-attachment: initial; 
   }
   
