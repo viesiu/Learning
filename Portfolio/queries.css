@@ -44,6 +44,10 @@
 }
 
 @media screen and (max-width: 640px) {
+  
+  html, body {
+    font-size: 18px; 
+  }
 
   .work, .about-do, .about-who, .social, .form {
     width: 100%;
